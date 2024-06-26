@@ -5,7 +5,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  |  |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/augzzz/AD-Detection-Lab">AD-Detection-Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/augzzz/AD-Detection-Lab">AD-Detection-Lab</a>|
 
 ## Tools
 
@@ -30,4 +31,4 @@
 </div>
 
 ## Projects 
-- Detection Lab
+-  <a href="https://github.com/augzzz/AD-Detection-Lab">AD-Detection-Lab</a>
