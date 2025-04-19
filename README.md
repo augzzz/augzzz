@@ -1,4 +1,4 @@
-## Hello, I'm Auggie. I'm passionate about technology and cybersecurity and always looking to learn more.👋
+## Hello, I'm Auggie.👋
 <a href="https://www.linkedin.com/in/auggie-moore/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Skills
